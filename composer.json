@@ -1,0 +1,19 @@
+{
+    "name": "martial/ssh2-wrapper",
+    "description": "A stateless wrapper object for the SSH2 PHP extension.",
+    "keywords": ["ssh", "network", "wrapper"],
+    "homepage": "https://github.com/MartialGeek/ssh2-wrapper",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Martial Saunois",
+            "email": "saunois.martial@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Martial\\Components\\": ""
+        }
+    },
+    "target-dir": "Martial/Components"
+}
