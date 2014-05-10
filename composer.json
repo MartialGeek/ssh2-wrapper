@@ -14,5 +14,8 @@
         "psr-0": {
             "Martial\\Components\\": ""
         }
+    },
+    "branch-alias": {
+        "dev-master": "master"
     }
 }
