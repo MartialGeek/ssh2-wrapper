@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Martial\\Components\\Network\\SSH": "src/"
+            "Martial\\Component\\Network\\SSH": "src/"
         }
     },
     "branch-alias": {

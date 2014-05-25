@@ -1,6 +1,6 @@
 <?php
 
-namespace Martial\Components\Network\SSH;
+namespace Martial\Component\Network\SSH;
 
 /**
  * Class Ssh2Wrapper.
